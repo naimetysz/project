@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(248, 237, 224);
+}
+#mkutu{
+    background-color: rgb(218, 95, 23);
+    border: 2px solid red;
+    width: 500px;
+    height: 100px;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 500px;
+    margin-right: 150px;
+    margin-top: 300px;
+}
